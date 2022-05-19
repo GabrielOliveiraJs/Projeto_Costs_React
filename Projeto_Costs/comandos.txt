@@ -1,0 +1,2 @@
+Iniciar o projeto: "npm start"
+Iniciar o backend com json: "npm run backend"
